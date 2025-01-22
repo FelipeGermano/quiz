@@ -110,5 +110,4 @@ Sinta-se à vontade para abrir issues e enviar pull requests para melhorias.
    ```
 5. Abra um Pull Request.
 
-
-![quiz](https://user-images.githubusercontent.com/26907971/148226784-ffdab93e-3664-4968-8c7c-8ac5cdf3f82d.gif)
+![quiz](https://github.com/FelipeGermano/quiz/blob/main/src/assets/quiz.gif)
